@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
 
     func start() {
-        var pipeline = NSMutableArray()
+        let pipeline = NSMutableArray()
         let condition = NSCondition()
         p = Producer(with: condition, collector: pipeline)
         c = Cosumer(with: condition, collector: pipeline)

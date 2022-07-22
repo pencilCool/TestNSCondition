@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C4B46B11288A39F60047E2AC /* TestNSCodition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestNSCodition.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4B46B11288A39F60047E2AC /* TestNSCondition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestNSCondition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4B46B14288A39F60047E2AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4B46B16288A39F60047E2AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C4B46B18288A39F60047E2AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		C4B46B12288A39F60047E2AC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C4B46B11288A39F60047E2AC /* TestNSCodition.app */,
+				C4B46B11288A39F60047E2AC /* TestNSCondition.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C4B46B10288A39F60047E2AC /* TestNSCodition */ = {
+		C4B46B10288A39F60047E2AC /* TestNSCondition */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C4B46B25288A39F80047E2AC /* Build configuration list for PBXNativeTarget "TestNSCodition" */;
+			buildConfigurationList = C4B46B25288A39F80047E2AC /* Build configuration list for PBXNativeTarget "TestNSCondition" */;
 			buildPhases = (
 				C4B46B0D288A39F60047E2AC /* Sources */,
 				C4B46B0E288A39F60047E2AC /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = TestNSCodition;
+			name = TestNSCondition;
 			productName = TestNSCodition;
-			productReference = C4B46B11288A39F60047E2AC /* TestNSCodition.app */;
+			productReference = C4B46B11288A39F60047E2AC /* TestNSCondition.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C4B46B0C288A39F60047E2AC /* Build configuration list for PBXProject "TestNSCodition" */;
+			buildConfigurationList = C4B46B0C288A39F60047E2AC /* Build configuration list for PBXProject "TestNSCondition" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C4B46B10288A39F60047E2AC /* TestNSCodition */,
+				C4B46B10288A39F60047E2AC /* TestNSCondition */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C4B46B0C288A39F60047E2AC /* Build configuration list for PBXProject "TestNSCodition" */ = {
+		C4B46B0C288A39F60047E2AC /* Build configuration list for PBXProject "TestNSCondition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4B46B23288A39F80047E2AC /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C4B46B25288A39F80047E2AC /* Build configuration list for PBXNativeTarget "TestNSCodition" */ = {
+		C4B46B25288A39F80047E2AC /* Build configuration list for PBXNativeTarget "TestNSCondition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4B46B26288A39F80047E2AC /* Debug */,
